@@ -1,0 +1,11 @@
+name: RollinBones
+version: 1.0.0
+author: F1shb0ne
+main: ca.vire.RollinBones.Plugin
+
+commands:
+  roll:
+    description: Roll dem bones!
+    usage: /roll
+    permission: RollinBones.roll
+    permission-message: §4YSorry, you do not have permission to do that.
